@@ -1,0 +1,20 @@
+User ID,Product ID,Product Name,Brand,Category,Price,Rating,Color,Size
+19,1,Dress,Adidas,Men's Fashion,40,1,Black,XL
+97,2,Shoes,H&M,Women's Fashion,82,4,Black,L
+25,3,Dress,Adidas,Women's Fashion,44,3,Yellow,XL
+57,4,Shoes,Zara,Men's Fashion,23,1,White,S
+79,5,T-shirt,Adidas,Men's Fashion,79,4,Black,M
+98,6,Dress,Adidas,Men's Fashion,47,1,Yellow,L
+16,7,Jeans,Gucci,Men's Fashion,37,1,White,XL
+63,8,Sweater,Zara,Kids' Fashion,64,4,Blue,XL
+96,9,Sweater,H&M,Men's Fashion,53,4,Green,XL
+36,10,T-shirt,Zara,Kids' Fashion,55,4,White,XL
+69,11,T-shirt,Adidas,Men's Fashion,51,1,Red,S
+87,12,Sweater,Gucci,Kids' Fashion,91,3,Yellow,M
+9,13,Jeans,Nike,Kids' Fashion,35,2,Red,M
+50,14,Dress,Zara,Women's Fashion,34,3,White,L
+31,15,Shoes,Zara,Men's Fashion,54,4,Yellow,M
+37,16,Dress,Adidas,Women's Fashion,27,1,Blue,S
+41,17,Dress,Gucci,Women's Fashion,75,1,Blue,XL
+15,18,Jeans,Gucci,Women's Fashion,73,4,Red,XL
+84,19,Shoes,Gucci,Women's Fashion,54,3,White,M
